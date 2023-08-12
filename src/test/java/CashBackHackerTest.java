@@ -29,7 +29,7 @@ public class CashBackHackerTest {
         assertEquals(expected, actual);
 
     }
-
+    
     @Test
 
     public void buy1000() {
@@ -42,7 +42,6 @@ public class CashBackHackerTest {
         assertEquals(expected, actual);
 
     }
-
 
 
 }
