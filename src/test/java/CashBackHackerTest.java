@@ -15,7 +15,6 @@ public class CashBackHackerTest {
 
         assertEquals(expected, actual);
 
-
     }
 
     @Test
@@ -28,7 +27,6 @@ public class CashBackHackerTest {
         int expected = 0;
 
         assertEquals(expected, actual);
-
 
     }
 
@@ -43,6 +41,6 @@ public class CashBackHackerTest {
 
         assertEquals(expected, actual);
 
-
     }
+ 
 }
