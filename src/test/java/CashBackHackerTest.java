@@ -4,6 +4,7 @@ import static org.testng.Assert.*;
 
 public class CashBackHackerTest {
 
+
     @Test
 
     public void buyLow1000() {
@@ -42,6 +43,8 @@ public class CashBackHackerTest {
         assertEquals(expected, actual);
 
     }
+
+
 
 
 }
