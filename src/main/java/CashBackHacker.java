@@ -5,5 +5,4 @@ public class CashBackHacker {
         return boundary - amount % boundary;
     }
 
-
 }
